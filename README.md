@@ -38,12 +38,12 @@ I love creating immersive gaming experiences that blend gameplay, technology, an
 
 ## 📫 Let’s Connect!
 
-- ✉️ [debhalder614@gmail.com](debhalder614@gmail.com)
+- ✉️ [debhalder614@gmail.com](mailto:debhalder614@gmail.com)
 - 💬 DM me on [LinkedIn](https://www.linkedin.com/in/debhalder/)
 - 🌐 Portfolio: [debhalder.my.canva](https://debhalder.my.canva.site/)
 
 ---
 
-> “Games give us a chance to explore what it means to be human — by challenging us when we're most afraid to speak.”
+> “Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.” — God of War
 
 Thanks for visiting! Feel free to explore my repos 👇
