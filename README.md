@@ -38,7 +38,7 @@ I love creating immersive gaming experiences that blend gameplay, technology, an
 
 ## 📫 Let’s Connect!
 
-- ✉️ [debhalder614@gmail.com]
+- ✉️ [debhalder614@gmail.com](debhalder614@gmail.com)
 - 💬 DM me on [LinkedIn](https://www.linkedin.com/in/debhalder/)
 - 🌐 Portfolio: [debhalder.my.canva](https://debhalder.my.canva.site/)
 
