@@ -11,8 +11,8 @@ I love creating immersive gaming experiences that blend gameplay, technology, an
 
 ## 💼 Projects
 
-- 🔇 **[NO SOUND](https://github.com/DebAkuma/No-sound)** *(Godot)* 
-A first-person horror game built in **Godot 4.x** where real-life sound attracts deadly enemies.  
+- 🔇 **[NO SOUND](https://github.com/DebAkuma/No-sound)** *(Godot)*
+  A first-person horror game built in **Godot 4.x** where real-life sound attracts deadly enemies.  
   🎙️ *Speak and die.* Silence is survival.
 
 - 🥋 **[Iron Clash](https://github.com/DebAkuma/Iron-Clash)** *(Unity)*  
